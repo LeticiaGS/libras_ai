@@ -1,0 +1,13 @@
+{
+    "LEGAL": 0,
+    "NAO": 1,
+    "OI": 2,
+    "RAPIDO": 3,
+    "SIM": 4,
+    "TCHAU": 5,
+    "TUDO_BEM": 6,
+    "DESCULPA": 7,
+    "SAFADO": 8,
+    "RUIM": 9,
+    "BONITO": 10
+}
