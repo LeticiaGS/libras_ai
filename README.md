@@ -148,7 +148,7 @@ Pressione `Q` para sair.
 ## Autores
 - Anna Luiza Silva Dome
 - Arthur Machado Garlati
-- Arthur Miguel GOnzaga da Fonseca
+- Arthur Miguel Gonzaga da Fonseca
 - Letícia Gomes dos Santos
 - Luciana Carolline Fernandes Luiz Gomes
 - Mateus Carvalho Rodrigues da Silva
