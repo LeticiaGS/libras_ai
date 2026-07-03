@@ -146,10 +146,10 @@ Pressione `Q` para sair.
 ---
 
 ## Autores
-Anna Luiza Silva Dome
-Arthur Machado Garlati
-Arthur Miguel GOnzaga da Fonseca
-Letícia Gomes dos Santos
-Luciana Carolline Fernandes Luiz Gomes
-Mateus Carvalho Rodrigues da Silva
-Mel Borges Martins
+- Anna Luiza Silva Dome
+- Arthur Machado Garlati
+- Arthur Miguel GOnzaga da Fonseca
+- Letícia Gomes dos Santos
+- Luciana Carolline Fernandes Luiz Gomes
+- Mateus Carvalho Rodrigues da Silva
+- Mel Borges Martins
